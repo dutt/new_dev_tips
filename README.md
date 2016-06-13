@@ -37,4 +37,6 @@ If someone takes the time to explain something, don't interrupt.
 
 ## A touch of humility never hurts
 
-To use a cliché, If you talk the talk, make sure you walk the walk or people will be annoyed. Some of the people I've worked with in the past were really annoying to work with and not that great developers, which means I'll actively tro to disuade current employers to hire them. I really doubt I'm alone in that.
+To use a cliché, If you talk the talk, make sure you walk the walk or people will be annoyed. Some of the people I've worked with in the past were really annoying to work with and not that great developers, which means I'll actively tro to disuade current employers from hiring them. I really doubt I'm alone in that. I want to work with people that does not drive me nuts.
+
+The better you are the more leeway you have. But the best also have to play decent with the others.
