@@ -10,7 +10,7 @@ It's good to get a grip of the architecture, how the big pieces fit together, bu
 
 ## Code review critique
 
-Code review can get harsh, you need to learn to seperate issues in your code from your value as a person. When starting working as a developer you've chosen to expose 
+Code review can get harsh, you need to learn to seperate issues in your code from your value as a person. When starting working as a developer you've chosen to expose that side of yourself and you need to be able to take constructive critisism.
 
 ## Specification issues
 
