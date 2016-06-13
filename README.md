@@ -33,6 +33,10 @@ Similar but not the same as above. It might have been a rush job, working fine b
 
 If you do take a shortcut when facing a deadline, make sure people know about it. Never hide tech debt.
 
+## Ask for help
+
+It's a lot better for eveyone if you ask a colleague the same day than if you're stuck at a problem for a week.
+
 ## Interruptions
 
 If someone takes the time to explain something, don't interrupt.
@@ -41,10 +45,8 @@ As you know it can take time to get into the mindset again. Try to time question
 
 ## A touch of humility never hurts
 
-To use a cliché, If you talk the talk, make sure you walk the walk or people will be annoyed. Some of the people I've worked with in the past were really annoying to work with and not that great developers, which means I'll actively tro to disuade current employers from hiring them. I really doubt I'm alone in that. I want to work with people that does not drive me nuts.
-
-The better you are the more leeway you have. But the best also have to play decent with the others.
+To use a cliché, If you talk the talk, make sure you walk the walk or people will be annoyed. The better you are the more leeway you have. But the best also have to play decent with the others.
 
 # Education
 
-How can these concrete points be taught in the best way? I'm not sure. Suggestions very welcome.
+How can these points be taught in the best way? I'm not sure. Suggestions very welcome.
