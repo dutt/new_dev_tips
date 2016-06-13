@@ -1,6 +1,6 @@
 # Tips for new developers
 
-I've worked for a number of years now and have been similar things in a number of new developers when they face the difference between school and industry, so to speed things up a bit I thought I'd write these down.
+I've worked for a number of years now and have been similar things in a number of new developers when they face the difference between school and industry, so to speed things up a bit I thought I'd write these down to gather my thougths.
 
 ## Pace your learning
 
@@ -10,7 +10,7 @@ It's good to get a grip of the architecture, how the big pieces fit together, bu
 
 ## Code review critique
 
-Code review is not personal. We're critizing your code, not you. You need to seperate the two or things will be really hard for you going forward.
+Code review can get harsh, you need to learn to seperate issues in your code from your value as a person. When starting working as a developer you've chosen to expose 
 
 ## Specification issues
 
@@ -31,12 +31,20 @@ It might be the case that nobody currently working in the company knows how a pi
 
 Similar but not the same as above. It might have been a rush job, working fine but ugly. It might have been a good fit for the product as it was five years ago but isn't any more.
 
-## When receiving help, don't interrupt
+If you do take a shortcut when facing a deadline, make sure people know about it. Never hide tech debt.
+
+## Interruptions
 
 If someone takes the time to explain something, don't interrupt.
+
+As you know it can take time to get into the mindset again. Try to time questions before/after meetings or lunch or breaks to maximize peoples flow. If you have to interrupt take a batch of questions at once.
 
 ## A touch of humility never hurts
 
 To use a cliché, If you talk the talk, make sure you walk the walk or people will be annoyed. Some of the people I've worked with in the past were really annoying to work with and not that great developers, which means I'll actively tro to disuade current employers from hiring them. I really doubt I'm alone in that. I want to work with people that does not drive me nuts.
 
 The better you are the more leeway you have. But the best also have to play decent with the others.
+
+# Education
+
+How can these concrete points be taught in the best way? I'm not sure. Suggestions very welcome.
