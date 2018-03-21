@@ -8,9 +8,28 @@ Some developers want to learn all of the codebase when they begin their new job.
 
 It's good to get a grip of the architecture, how the big pieces fit together, but don't try to learn the insides of all the pieces right away.
 
+## Everyone starts somewhere
+
+Everybody takes a month or three to get going at a new place. Don't worry too much during the first few months, just give it your best shot and try to learn a lot.
+
+Your goals with your first job should be two:
+
+1) A decent starting salary.
+2) Learning opportunities. Find out which areas in development you enjoy and how to do more of those while less of the less fun ones.
+
+The first job is the first stepping stone to your next job, which ideally would have a higher salary and higher ratio of the fun stuff.
+
 ## Code review critique
 
 Code review can get harsh, you need to learn to seperate issues in your code from your value as a person. When starting working as a developer you've chosen to expose that side of yourself and you need to be able to take constructive critisism.
+
+## Mentor
+
+Try to find somebody more senior that knows how to give good critique that you get along with, ask them if they might want to mentor you for a bit. Think of it as a senior/friend thing.
+How do you handle this or that boss / colleague?
+How do you get things like this approved for implementation?
+Which interesting new projects might be coming up?
+How'd they solve this or that interesting problem?
 
 ## Specification issues
 
@@ -21,7 +40,7 @@ It might be you misunderstanding, then you will learn more and implement it corr
 
 ## Old unknown code
 
-"Ah, the ThingyDoer. Bob wrote that, he quit two years ago and nobody has really touched it since."
+"Ah, the ThingyDoer. Sara wrote that, he quit two years ago and nobody has really touched it since."
 
 It might be the case that nobody currently working in the company knows how a piece of code works. You'll have to dig down and figure it out yourself.
 
@@ -41,7 +60,7 @@ It's a lot better for eveyone if you ask a colleague the same day than if you're
 
 If someone takes the time to explain something, don't interrupt.
 
-As you know it can take time to get into the mindset again. Try to time questions before/after meetings or lunch or breaks to maximize peoples flow. If you have to interrupt take a batch of questions at once.
+As you know it can take time to get into the mindset again. Try to time questions before/after meetings or lunch or breaks to help maximize peoples flow. If you have to interrupt try take a batch of questions at once.
 
 ## A touch of humility never hurts
 
