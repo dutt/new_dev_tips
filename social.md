@@ -12,6 +12,8 @@ How'd they solve this or that interesting problem?
 
 It's a lot better for eveyone if you ask a colleague the same day than if you're stuck at a problem for a week.
 
+Nobody knows everything. I've worked for a couple of years now and still ask questions, search and find new things I didn't know more or less daily.
+
 ## Interruptions
 
 If someone takes the time to explain something, don't interrupt.
