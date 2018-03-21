@@ -40,7 +40,7 @@ It might be you misunderstanding, then you will learn more and implement it corr
 
 ## Old unknown code
 
-"Ah, the ThingyDoer. Sara wrote that, he quit two years ago and nobody has really touched it since."
+"Ah, the ThingyDoer. Sara wrote that, she quit two years ago and nobody has really touched it since."
 
 It might be the case that nobody currently working in the company knows how a piece of code works. You'll have to dig down and figure it out yourself.
 
