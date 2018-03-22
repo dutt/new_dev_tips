@@ -31,3 +31,7 @@ If something doesn't go according to plan let people know, they'll help you clea
 Do not try to hide it or you might make it so much worse.
 
 Good people don't worry about who to blame, good people worry about how to fix the situation. You should aspire to be good people.
+
+## Your real job
+
+This might come as a surprise but your job isn't to write code - it's to help your team meet its goals. This means that sometimes the most important thing you can do is to help out with testing, take part in design explorations, attend meetings, or in other ways contribute in areas that isn't your main expertise.

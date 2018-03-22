@@ -18,3 +18,9 @@ It's good to see different environments, ways of working, toolchains and expand 
 ## Evalute the company
 
 Provisonal hiring is good for the company, they can evaluate you and your potential as an employee. It's also good for you, you can evalute the company culture, your coworkers, boss and so on. Use that opportunity.
+
+## Expand your view
+
+Learn as much as you can about the whole life cycle of software development and the technical ecosystem of your company. Understanding, at a high level, all parts of designing, writing, shipping, operating and maintaining software will help you make better choices.
+
+The same goes for the various segments. Frontend, backend, desktop, embedded and so on.

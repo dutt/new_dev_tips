@@ -20,3 +20,7 @@ It might be the case that nobody currently working in the company knows how a pi
 Similar but not the same as above. It might have been a rush job, working fine but ugly. It might have been a good fit for the product as it was five years ago but isn't any more.
 
 If you do take a shortcut when facing a deadline, make sure people know about it. Never hide tech debt.
+
+## Perfection
+
+There's nothing like a perfect solution, and usually it wouldn't be worth the investment, so get used to pragmatic discussions on how to get a good-enough solution with a lot less work.
